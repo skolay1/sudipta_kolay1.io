@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sudipta Kolay
 
 You can use the [editor on GitHub](https://github.com/skolay1/sudipta_kolay1.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
